@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/cdd8cc7f-562a-443d-9869-6f400654f468)
 # BioE 230 - Week 5: Genome Annotation 
 
 Create a README in a Github repository with the answers.
